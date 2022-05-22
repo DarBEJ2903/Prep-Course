@@ -287,7 +287,7 @@ describe('esVocal(letra)', function() {
     expect(esVocal("l")).toBe("Dato incorrecto");
     expect(esVocal("p")).toBe("Dato incorrecto");
   });
-  it('Deberia devolver el string "Es vocal", si el valor ingresado lo es', function() {
+  it('Deberia si el valor ingresado devolver el string "Es vocal", lo es', function() {
     expect(esVocal('a')).toBe('Es vocal');
     expect(esVocal('e')).toBe('Es vocal');
     expect(esVocal('i')).toBe('Es vocal');
