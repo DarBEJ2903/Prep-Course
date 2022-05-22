@@ -1,0 +1,17 @@
+Variables:  Es una asignacion de un espacio de memoria donde es posible almacenar un dato,
+            Ya sea de tipo String,numerico,booleano, etc. Este espacio de memoria se puede sobre-
+            escribir con un dato diferente cada que sea necesario.
+
+String: Los Strings son un tipo de variable, que representan una cadena de caracteres, y en JS se
+        se identifican porque estan dentro de comillas dobles o simples.
+
+
+Declaraciones:  Una declaracion es una especificacion o estructuracion ya sea de una variable o una 
+                funcion, asignandole un nombre y demás información que pueda establecer su existencia
+                y sea reconocible a lo largo del codigo.
+
+Valores booleanos:  Es un valor binario, donde unicamente puede tomar dos valores, True o False. Es 
+                    analogo a un interruptor electrico, el interruptor unicamente tiene dos estdos
+                    encendido o apagado.
+
+
