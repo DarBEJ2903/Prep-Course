@@ -1,0 +1,8 @@
+Estructura for: La estructura for es un statment de caracter iterativo o repetitivo, cuya funcion es 
+                repetir un pedazo de codigo hasta que la variable de interacion no cumpla con la
+                codiciòn.
+
+&&, ||, ! :  Los anteriores simbolos representan operadores logicos, que son capaces de  realizar
+             operaciones booleanas o operaciones logicas, cuyo resultado esta condicionado por la
+             respectiva tabla de verdad de cada operador.
+                
