@@ -1,5 +1,5 @@
 // No cambies los nombres de las funciones.
-
+"20 de Julio de 2022; Ingenieria en Control y Automatizaciòn"
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
